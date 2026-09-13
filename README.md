@@ -146,3 +146,5 @@ No installation, no server, no dependencies to manage.
 *لایسنس خودتو اینجا اضافه کن.*
 
 </div>
+<!-- SEO Keywords for Google Search Indexing:
+best browser music player, web audio api daw, 64 band equalizer javascript, aura music player github, xparsa070 code aura pro, online remix engine, automatic bpm detection web, zero dependency web audio player, interactive web audio visualizer, local pwa music player indexeddb, vocal remover in browser, lufs metering online bs1770, audio sidechain compression javascript, wsola time stretch web audio api, free gemini api AI controlled music player -->
