@@ -69,9 +69,7 @@ A conversational assistant that can directly control the player — EQ, effects,
 - **PWA** — installable and works offline
 
 ### 🚀 Getting Started
-1. Download the HTML file from this repo
-2. Open it in your browser, or host it yourself (e.g. rename it to `index.html` and enable GitHub Pages)
-3. Add your music and start listening
+1. All you need to do is use the link we provided or click on the purple button above to automatically open the page for you.
 
 No installation, no server, no dependencies to manage.
 
@@ -136,9 +134,8 @@ No installation, no server, no dependencies to manage.
 - **PWA** — قابل نصب و کار آفلاین
 
 ### 🚀 شروع کار
-۱. فایل HTML رو از این ریپو دانلود کن
-۲. تو مرورگرت بازش کن، یا خودت هاستش کن (مثلاً به `index.html` تغییر نام بده و GitHub Pages رو فعال کن)
-۳. آهنگ‌هاتو اضافه کن و گوش بده
+۱. فقط و فقط کافیه که از لینکی که برای شما گذاشتیم استفاده کنید یا  روی دکمه بنفش رنگ بالا کلیک کنید تا خودکار صفحه برای شما باز شود 
+
 
 نه نصبی لازمه، نه سروری، نه هیچ وابستگی‌ای برای مدیریت کردن.
 
