@@ -1,0 +1,103 @@
+AURA Strict Proprietary License
+
+Copyright (c) 2026 Parsa (xparsa070@gmail.com). All rights reserved.
+
+"AURA", its logo, and related branding are trademarks of the copyright holder.
+
+1. SCOPE AND RESERVATION OF RIGHTS
+This license covers the AURA software: source code, binaries, build scripts,
+CI/CD configuration, documentation, assets, and all related files (the
+"Software"). Source code is made visible for personal, non-commercial
+evaluation only. All rights not expressly granted are reserved. No license
+is granted by implication, estoppel, or otherwise, including any patent
+license.
+
+GITHUB FORKS: If the Software is published on GitHub, you may fork it within
+GitHub only as GitHub's Terms of Service allow, for personal evaluation. A
+fork grants no other rights, and all sections of this license still apply to
+it, including the bans on mirroring it elsewhere, modifying and distributing
+it, and commercial use.
+
+2. PROHIBITED ACTIONS
+Without prior written permission from the copyright holder, you may not:
+  a) Copy, mirror, redistribute, republish, sell, rent, lease,
+     sublicense, or host the Software or any part of it outside the
+     original repository, including on other repositories and
+     file-sharing services.
+  b) Modify the Software or create derivative works, or distribute any
+     modified version.
+  c) Use the Software for any commercial purpose, including offering it as a
+     service, bundling it into a product, or using it internally in a
+     business.
+  d) Reverse engineer, decompile, disassemble, or attempt to derive source,
+     algorithms, or proprietary components from any binary form, except to
+     the extent applicable law expressly permits this despite this
+     restriction.
+  e) Remove, alter, or obscure the author's name, copyright notices,
+     license text, or ownership information.
+  f) Bypass, disable, or tamper with any protection, license check,
+     integrity check, code signing, or obfuscation in the Software.
+  g) Use the Software, its source, or its output to train, fine-tune, or
+     evaluate any machine learning or AI model, or scrape or bulk-collect it
+     with automated tools.
+  h) Publish benchmarks or comparative analyses of the Software.
+  i) Share, publish, or disclose non-public parts of the Software (private
+     builds, keys, credentials, unreleased code) to any third party.
+  j) Copy, reimplement, or replicate any feature, function, algorithm,
+     audio-processing method, UI/UX design, or behavior of the Software in
+     any other project, in whole or in part, even a single feature, whether
+     by copying code or by rewriting it after studying the Software's
+     source.
+
+3. USE IN OTHER PROJECTS
+No part of the Software may be used in or copied into any other project,
+including a single feature, function, snippet, algorithm, design, or
+architecture taken from or modeled on its source. Any such use requires
+separate written permission.
+
+4. TRADEMARKS
+No right is granted to use the name "AURA", its logo, or any similar name,
+mark, or trade dress, including in project names, domains, or app stores.
+
+5. CONTRIBUTIONS
+Any contribution you submit to the Software is assigned to the copyright
+holder, who may use it without restriction or compensation. You confirm you
+have the right to make that assignment.
+
+6. SECURITY
+If you find a vulnerability, report it privately to the contact below and do
+not disclose it publicly or exploit it. Good-faith, responsible reporting
+will not be treated as a breach of Section 2(d).
+
+7. THIRD-PARTY COMPONENTS
+The Software may include or depend on third-party components (for example
+Electron, naudiodon, and PortAudio). Those remain under their own licenses,
+and nothing here restricts rights those licenses give you.
+
+8. AUDIT
+On reasonable request, you must confirm in writing that you comply with this
+license and provide reasonable evidence of that compliance.
+
+9. TERMINATION
+Any breach ends your rights automatically and without notice. You must then
+stop all use and delete every copy of the Software. Sections 2, 4, 5, 7, 10,
+and 11 survive termination.
+
+10. REMEDIES
+Breach may cause harm that money cannot fully repair. The copyright holder
+may seek injunctive relief in addition to any other remedy, without having to
+post a bond, to the extent the law allows.
+
+11. NO WARRANTY, LIMITED LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. TO THE MAXIMUM EXTENT THE LAW ALLOWS, THE AUTHOR IS NOT
+LIABLE FOR ANY DAMAGES ARISING FROM THE SOFTWARE OR ITS USE.
+
+12. GOVERNING LAW
+This license is governed by the laws of Iran, and disputes will be
+brought in the courts of Langarud, Iran.
+
+13. PERMISSIONS AND CONTACT
+For permission to do anything not allowed above, or to report a security
+issue: xparsa070@gmail.com
